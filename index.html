@@ -33,7 +33,7 @@
 	function eachLayer(layer) {
 		var feature = layer.toGeoJSON();
 		if (feature.properties) {
-			layer.bindPopup('<strong>' + feature.properties.luogo + ' ' +feature.properties.numeroPartecipanti);
+			layer.bindPopup('<strong>' + feature.properties.luogo + ' ' + feature.properties.numeroPartecipanti + '</strong>');
 		}
 	}
 	var points = omnivore.csv('geocoded.csv', {
