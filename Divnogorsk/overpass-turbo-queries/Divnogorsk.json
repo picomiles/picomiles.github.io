@@ -93,6 +93,7 @@
     "community:gender": "male",
     "denomination": "russian_orthodox",
     "name": "Monastero della Santa Assunzione di Divnogorsk",
+    "description": "Дивногорский Успенский мужской монастырь",
     "place_of_worship": "monastery",
     "ref:temples.ru": "12709",
     "religion": "christian",
