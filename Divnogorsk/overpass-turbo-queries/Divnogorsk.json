@@ -17,6 +17,7 @@
     "building": "cathedral",
     "denomination": "russian_orthodox",
     "name": "Cattedrale dell'Assunzione della Beata Vergine Maria",
+    "description": "Собор Успения Пресвятой Богородицы",
     "ref:temples.ru": "12710",
     "religion": "christian",
     "start_date": "1880-1886"
@@ -43,6 +44,7 @@
     "building": "church",
     "denomination": "russian_orthodox",
     "name": "Chiesa della Natività di Giovanni Battista",
+    "description": "Церковь Рождества Иоанна Предтечи",
     "ref:temples.ru": "12712",
     "religion": "christian",
     "start_date": "1660s",
@@ -60,6 +62,7 @@
     "building": "church",
     "denomination": "russian_orthodox",
     "name": "Chiesa dell'icona della Madre di Dio Siciliana",
+    "description": "Церковь Иконы Божией Матери Сицилийская",
     "ref:temples.ru": "12711",
     "religion": "christian",
     "start_date": "1860"
