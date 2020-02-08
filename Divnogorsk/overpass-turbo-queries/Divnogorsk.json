@@ -30,7 +30,8 @@
   "lon": 39.3189042,
   "tags": {
     "amenity": "place_of_worship",
-    "description": "Croce ortodossa sulla montagna",
+    "name": "Croce ortodossa sulla montagna",
+    "description": "Православный крест на горе",
     "religion": "christian"
   }
 },
