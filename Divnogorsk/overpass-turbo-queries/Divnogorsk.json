@@ -16,7 +16,7 @@
     "amenity": "place_of_worship",
     "building": "cathedral",
     "denomination": "russian_orthodox",
-    "name": "Собор Успения Пресвятой Богородицы",
+    "name": "Cattedrale dell'Assunzione della Beata Vergine Maria",
     "ref:temples.ru": "12710",
     "religion": "christian",
     "start_date": "1880-1886"
@@ -29,7 +29,7 @@
   "lon": 39.3189042,
   "tags": {
     "amenity": "place_of_worship",
-    "description": "Православный крест на горе",
+    "description": "Croce ortodossa sulla montagna",
     "religion": "christian"
   }
 },
@@ -42,7 +42,7 @@
     "amenity": "place_of_worship",
     "building": "church",
     "denomination": "russian_orthodox",
-    "name": "Церковь Рождества Иоанна Предтечи",
+    "name": "Chiesa della Natività di Giovanni Battista",
     "ref:temples.ru": "12712",
     "religion": "christian",
     "start_date": "1660s",
@@ -59,7 +59,7 @@
     "amenity": "place_of_worship",
     "building": "church",
     "denomination": "russian_orthodox",
-    "name": "Церковь Иконы Божией Матери Сицилийская",
+    "name": "Chiesa dell'icona della Madre di Dio Siciliana",
     "ref:temples.ru": "12711",
     "religion": "christian",
     "start_date": "1860"
@@ -88,7 +88,7 @@
     "community": "monks",
     "community:gender": "male",
     "denomination": "russian_orthodox",
-    "name": "Дивногорский Успенский мужской монастырь",
+    "name": "Monastero dell'Assunzione di Divnogorsk",
     "place_of_worship": "monastery",
     "ref:temples.ru": "12709",
     "religion": "christian",
