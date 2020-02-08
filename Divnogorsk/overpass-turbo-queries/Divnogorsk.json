@@ -1,0 +1,173 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-08T00:30:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 474375860,
+  "lat": 50.9799235,
+  "lon": 39.3167911,
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "cathedral",
+    "denomination": "russian_orthodox",
+    "name": "Собор Успения Пресвятой Богородицы",
+    "ref:temples.ru": "12710",
+    "religion": "christian",
+    "start_date": "1880-1886"
+  }
+},
+{
+  "type": "node",
+  "id": 810160692,
+  "lat": 50.9800808,
+  "lon": 39.3189042,
+  "tags": {
+    "amenity": "place_of_worship",
+    "description": "Православный крест на горе",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 1818796181,
+  "lat": 50.9798251,
+  "lon": 39.3185419,
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "russian_orthodox",
+    "name": "Церковь Рождества Иоанна Предтечи",
+    "ref:temples.ru": "12712",
+    "religion": "christian",
+    "start_date": "1660s",
+    "tourism": "yes",
+    "website": "http://www.divnogor.ru/sights/architec/mdivy"
+  }
+},
+{
+  "type": "node",
+  "id": 2028546461,
+  "lat": 50.9801934,
+  "lon": 39.3167225,
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "russian_orthodox",
+    "name": "Церковь Иконы Божией Матери Сицилийская",
+    "ref:temples.ru": "12711",
+    "religion": "christian",
+    "start_date": "1860"
+  }
+},
+{
+  "type": "way",
+  "id": 192297937,
+  "nodes": [
+    2028546473,
+    2028546469,
+    2825305587,
+    2028546471,
+    2829666405,
+    2028546475,
+    2028546477,
+    2028546479,
+    2798874829,
+    2028549849,
+    2798874830,
+    6919044561,
+    2028546473
+  ],
+  "tags": {
+    "amenity": "place_of_worship",
+    "community": "monks",
+    "community:gender": "male",
+    "denomination": "russian_orthodox",
+    "name": "Дивногорский Успенский мужской монастырь",
+    "place_of_worship": "monastery",
+    "ref:temples.ru": "12709",
+    "religion": "christian",
+    "start_date": "1653"
+  }
+},
+{
+  "type": "node",
+  "id": 2028546473,
+  "lat": 50.9794607,
+  "lon": 39.3146990
+},
+{
+  "type": "node",
+  "id": 2028546469,
+  "lat": 50.9791308,
+  "lon": 39.3151870
+},
+{
+  "type": "node",
+  "id": 2028546471,
+  "lat": 50.9787570,
+  "lon": 39.3181387
+},
+{
+  "type": "node",
+  "id": 2028546475,
+  "lat": 50.9793791,
+  "lon": 39.3209022
+},
+{
+  "type": "node",
+  "id": 2028546477,
+  "lat": 50.9808287,
+  "lon": 39.3182204
+},
+{
+  "type": "node",
+  "id": 2028546479,
+  "lat": 50.9810646,
+  "lon": 39.3180030
+},
+{
+  "type": "node",
+  "id": 2028549849,
+  "lat": 50.9805905,
+  "lon": 39.3167627
+},
+{
+  "type": "node",
+  "id": 2798874829,
+  "lat": 50.9805750,
+  "lon": 39.3168456
+},
+{
+  "type": "node",
+  "id": 2798874830,
+  "lat": 50.9801755,
+  "lon": 39.3159045
+},
+{
+  "type": "node",
+  "id": 2825305587,
+  "lat": 50.9795770,
+  "lon": 39.3172266
+},
+{
+  "type": "node",
+  "id": 2829666405,
+  "lat": 50.9789602,
+  "lon": 39.3206659
+},
+{
+  "type": "node",
+  "id": 6919044561,
+  "lat": 50.9798947,
+  "lon": 39.3154313
+}
+
+  ]
+}
+
